@@ -1,0 +1,6 @@
+mne>=1.6.0
+numpy>=1.24.0
+torch>=2.1.0
+tqdm>=4.66.0
+pyedflib>=0.1.37
+matplotlib>=3.7.0
