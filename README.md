@@ -1,5 +1,5 @@
 # COSE362 Machine Learning Project  
-## AI x Medical: Future Sleep Stage Prediction from EEG Using Patch-Transformer VAE and Latent Delta Flow Matching
+## AI x Medical: EEG-Based Prediction Model for Sleep Transitions
 
 Final submission notebook: `sleep-edf/final_model/final_model_colab.ipynb`
 
