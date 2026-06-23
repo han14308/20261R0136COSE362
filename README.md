@@ -1,7 +1,9 @@
 # COSE362 Machine Learning Project  
 ## AI x Medical: EEG-Based Prediction Model for Sleep Transitions
 
-Final submission notebook: `sleep-edf/final_model/final_model_colab.ipynb`
+**Final code:** `final_model/final_model_colab.ipynb`
+
+Final submission notebook: `final_model/final_model_colab.ipynb`
 
 The `final_model/` folder contains the final implementation used for training, inference, and evaluation. Earlier files and intermediate results are kept for reference, but the final submitted pipeline is provided in the Colab notebook above.
 
@@ -15,7 +17,10 @@ Stage 2 predicts future sleep-stage transitions in the learned latent space. A c
 
 ## How to Run
 
-Upload the entire `sleep-edf` folder to Google Drive and open:
+1. Upload the entire `20261R0136COSE362` folder to Google Drive.
 
-```text
-sleep-edf/final_model/final_model_colab.ipynb
+2. Rename the uploaded folder:
+   `20261R0136COSE362` -> `sleep-edf`
+
+3. Open the Colab notebook:
+   `sleep-edf/final_model/final_model_colab.ipynb`
